@@ -6,8 +6,8 @@
 
 ### 🌱 I’m currently learning:
 
-- MS SQL
-- C# Entity Framework
+- ASP.NET Core MVC
+- Web API
 
 ### 📫 How to reach me:
 
