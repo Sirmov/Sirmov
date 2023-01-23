@@ -6,8 +6,8 @@
 
 ### 🌱 I’m currently learning:
 
-- ASP.NET Core MVC
-- Web API
+- HTML & CSS
+- React
 
 ### 📫 How to reach me:
 
